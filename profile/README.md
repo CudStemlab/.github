@@ -31,7 +31,7 @@ Track jobs, monitor printer status, manage queues, and handle file uploads — a
 ---
 
 ### Stemlab PrintFarm Orca Slicer
-> Customized OrcaSlicer with StemLab printer profiles pre-installed.
+> Customized OrcaSlicer with Printfarm connection system.
 
 Students and staff get a slicing tool that works with our machines out of the box — no manual config needed.
 
