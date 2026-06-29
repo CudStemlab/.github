@@ -1,12 +1,12 @@
-## Hi there 👋
+SatitChulaStemlab develops software and tools for 3D printing, laboratory management, and STEM education.
 
-<!--
+Current projects include:
 
-**Here are some ideas to get you started:**
+PrintFarm – Web-based management system for 3D printers and print jobs.
+StemLab Organizer – Desktop application for organizing 3D printing projects and related files.
+StemLab Slicer – Customized slicing software based on OrcaSlicer.
+Room Booking – Web application for booking laboratories, classrooms, and shared facilities.
+Printer Tools – Utilities and integrations for supported 3D printers.
+APIs & Libraries – Shared packages and backend services used across StemLab projects.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Additional projects are developed and maintained as needed to support the laboratory's workflow.
