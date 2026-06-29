@@ -75,7 +75,7 @@ Simple and fast — check availability and reserve a space in seconds.
       <a href="https://github.com/saralray">
         <img src="https://avatars.githubusercontent.com/u/125232582?v=4" width="80" style="border-radius:50%"/><br/>
         <b>Saral Assabumrungrat</b><br/>
-        <sub>Developer · Manufacturing Systems</sub>
+        <sub>Developer · Digital Fabrication Systems</sub>
       </a>
     </td>
   </tr>
